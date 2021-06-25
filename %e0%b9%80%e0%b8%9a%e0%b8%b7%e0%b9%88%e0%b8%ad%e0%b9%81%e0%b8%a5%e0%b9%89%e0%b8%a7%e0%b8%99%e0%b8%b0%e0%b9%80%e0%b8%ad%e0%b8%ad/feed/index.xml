@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	>
+<channel>
+	<title>
+	ความเห็นบน: เบื่อแล้วนะเออ	</title>
+	<atom:link href="/https://jamessmaith.github.io/thesixthfloor/%E0%B9%80%E0%B8%9A%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B9%81%E0%B8%A5%E0%B9%89%E0%B8%A7%E0%B8%99%E0%B8%B0%E0%B9%80%E0%B8%AD%E0%B8%AD/feed/" rel="self" type="application/rss+xml" />
+	<link>/https://jamessmaith.github.io/thesixthfloor/%e0%b9%80%e0%b8%9a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%99%e0%b8%b0%e0%b9%80%e0%b8%ad%e0%b8%ad/</link>
+	<description>ศิลปะชั้นหก</description>
+	<lastBuildDate>Fri, 25 Jun 2021 19:08:07 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+</channel>
+</rss>
