@@ -1,0 +1,313 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PDPA Thailand\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-16 08:41+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.4.6; wp-5.6"
+
+#: admin/admin.php:505
+msgid ""
+"<label>Shortcode</label>[dpdpa_policy_page title=\"Cookies policy\"] For "
+"showing link to policy page<br>[dpdpa_settings title=\"Cookie settings\"] "
+"For calling sidebar and show cookie settings or Enable settings button ( Tab "
+"General )"
+msgstr ""
+
+#: admin/admin.php:901
+msgid "<span class=\"pdpa--thailand-pro\">GET PRO</span>"
+msgstr ""
+
+#: admin/admin.php:655
+msgid "Add cookies <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:900
+msgid "Advanced <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: template/popup.php:13
+msgid "Allow"
+msgstr ""
+
+#: template/sidebar.php:17
+msgid "Allow All"
+msgstr ""
+
+#: template/sidebar.php:25
+msgid "Always Active"
+msgstr ""
+
+#: admin/admin.php:899
+msgid "Appearance"
+msgstr ""
+
+#: admin/admin.php:1164
+msgid ""
+"Code before &lt;/body&gt; <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:1152
+msgid "Code in &lt;head&gt;&lt;/head&gt; "
+msgstr ""
+
+#: admin/admin.php:1158
+msgid ""
+"Code next to &lt;body&gt; <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:1138
+msgid "Consent description *"
+msgstr ""
+
+#: admin/admin.php:1126
+msgid "Consent title *"
+msgstr ""
+
+#: admin/admin.php:1075
+msgid "Consulting Service"
+msgstr ""
+
+#: admin/admin.php:230
+msgid "Cookie consent message"
+msgstr ""
+
+#: admin/admin-scanner.php:43
+msgid "Cookie Name"
+msgstr ""
+
+#: admin/admin.php:1144
+msgid "Cookie name *"
+msgstr ""
+
+#: admin/admin.php:898
+msgid "Cookies"
+msgstr ""
+
+#: admin/admin.php:192
+msgid "Cookies duration <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:270
+#, php-format
+msgid "Cookies list <a href=\"%s\" class=\"pdpa--link\" target=\"_blank\"></a>"
+msgstr ""
+
+#: public/public.php:141
+msgid "Cookies settings"
+msgstr ""
+
+#: admin/admin.php:801
+msgid "Dark"
+msgstr ""
+
+#: admin/admin.php:450
+msgid "Days"
+msgstr ""
+
+#: admin/admin.php:827 admin/admin.php:841
+msgid "Default"
+msgstr ""
+
+#. Author of the plugin
+msgid "Designil"
+msgstr ""
+
+#: admin/admin.php:848
+#, php-format
+msgid ""
+"Developers can override PDPA Thailand's template by creating a file  in the "
+"/wp-content/theme/pdpa-thailand folder. <a href=\"%s\">Read more</a> here "
+"<span class=\"pdpa--thailand-pro\">(PRO Only)</span>"
+msgstr ""
+
+#: admin/admin.php:1051
+msgid "Documentaion"
+msgstr ""
+
+#: admin/admin.php:156
+msgid "Enable PDPA Thailand"
+msgstr ""
+
+#: admin/admin.php:174
+msgid ""
+"Enable reject all button <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:165
+msgid "Enable settings button <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:1059
+msgid "FAQs"
+msgstr ""
+
+#: admin/admin-scanner.php:38
+#, php-format
+msgid "Found <b>%s cookies(s)</b> in this website"
+msgstr ""
+
+#: admin/admin.php:896
+msgid "General"
+msgstr ""
+
+#: admin/admin-scanner.php:47
+msgid "Get pro version to see more"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.designilcode.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.designilpdpa.com"
+msgstr ""
+
+#: admin/admin.php:788
+msgid "Left"
+msgstr ""
+
+#: admin/admin.php:800
+msgid "Light"
+msgstr ""
+
+#: admin/admin.php:319
+msgid "Logo <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:328
+msgid "Main color"
+msgstr ""
+
+#: template/sidebar.php:20
+msgid "Manage Consent Preferences"
+msgstr ""
+
+#: admin/admin.php:310
+msgid ""
+"Max popup width <span class=\"pdpa--thailand-pro\">(PRO)</span> <a "
+"href=\"#popup_max_container_size\" class=\"pdpa--info\"></a>"
+msgstr ""
+
+#: admin/admin.php:897
+msgid "Messages"
+msgstr ""
+
+#: admin/admin.php:337
+msgid "Mode <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:820
+msgid "Not found"
+msgstr ""
+
+#: admin/admin.php:998
+msgid "Only allow A-Z, a-z, -, _"
+msgstr ""
+
+#. Name of the plugin
+#: admin/admin.php:101 admin/admin.php:102
+msgid "PDPA Thailand"
+msgstr ""
+
+#: admin/admin.php:1010
+msgid "PDPA Thailand - Policy Page"
+msgstr ""
+
+#: admin/admin.php:996
+msgid "Please confirm to delete this row ?"
+msgstr ""
+
+#: admin/admin.php:221
+msgid "Policy page"
+msgstr ""
+
+#: public/public.php:149
+msgid "Privacy policy"
+msgstr ""
+
+#: template/sidebar.php:15
+msgid "Privacy Preferences"
+msgstr ""
+
+#: public/public.php:135
+msgid "Reject All"
+msgstr ""
+
+#: admin/admin.php:654
+msgid "Reset"
+msgstr ""
+
+#: admin/admin.php:183
+#, php-format
+msgid ""
+"Reset Cookie ID <a href=\"%s\" class=\"pdpa--link\" target=\"_blank\"></a>"
+msgstr ""
+
+#: admin/admin.php:789
+msgid "Right"
+msgstr ""
+
+#: template/sidebar.php:50
+msgid "Save"
+msgstr ""
+
+#: admin/admin.php:915 admin/admin.php:925 admin/admin.php:935
+#: admin/admin.php:952
+msgid "Save Settings"
+msgstr ""
+
+#: admin/admin.php:1019
+msgid "Settings"
+msgstr ""
+
+#: admin/admin.php:886
+msgid "Settings are Saved"
+msgstr ""
+
+#: admin/admin.php:239
+msgid "Sidebar message"
+msgstr ""
+
+#: admin/admin.php:346
+msgid "Sidebar position <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:852
+msgid "Status"
+msgstr ""
+
+#: admin/admin.php:620
+msgid "Strictly necessary cookies description"
+msgstr ""
+
+#: admin/admin.php:614
+msgid "Strictly necessary cookies title"
+msgstr ""
+
+#: admin/admin.php:1067
+msgid "Support"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Support Thai PDPA law by manage cookie systematic and allow to ask consent "
+"from user"
+msgstr ""
+
+#: admin/admin.php:847 admin/admin.php:851
+msgid "Template"
+msgstr ""
+
+#: admin/admin.php:997
+msgid "This cookie name is not unique"
+msgstr ""

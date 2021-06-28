@@ -1,0 +1,326 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: PDPA Thailand\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-01-09 11:13+0000\n"
+"PO-Revision-Date: 2021-01-16 08:41+0000\n"
+"Last-Translator: \n"
+"Language-Team: ไทย\n"
+"Language: th\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.5.0; wp-5.6"
+
+#: admin/admin.php:505
+#| msgid ""
+#| "<label>Shortcode</label>[dpdpa_policy_page title=\"Cookies policy\"] For "
+#| "showing link to policy page<br>[dpdpa_settings title=\"Cookie settings\"] "
+#| "For calling sidebar and show cookie settings"
+msgid ""
+"<label>Shortcode</label>[dpdpa_policy_page title=\"Cookies policy\"] For "
+"showing link to policy page<br>[dpdpa_settings title=\"Cookie settings\"] "
+"For calling sidebar and show cookie settings or Enable settings button ( Tab "
+"General )"
+msgstr ""
+"<label>Shortcode</label>[dpdpa_policy_page title=\"Cookies policy\"] "
+"สำหรับแสดงลิงก์เพื่อไปยังหน้า Policy<br>\n"
+"[dpdpa_settings title=\"Cookie settings\"] สำหรับแสดงลิงก์เพื่อเรียก Sidebar "
+"และรายการ Cookie มาแสดง หรือ เปิด ปุ่มตั้งค่าได้ที่ ( แท็บ General )"
+
+#: admin/admin.php:901
+msgid "<span class=\"pdpa--thailand-pro\">GET PRO</span>"
+msgstr ""
+
+#: admin/admin.php:655
+msgid "Add cookies <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:900
+msgid "Advanced <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: template/popup.php:13
+msgid "Allow"
+msgstr "ยอมรับ"
+
+#: template/sidebar.php:17
+msgid "Allow All"
+msgstr "ยอมรับทั้งหมด"
+
+#: template/sidebar.php:25
+msgid "Always Active"
+msgstr "เปิดใช้งานตลอด"
+
+#: admin/admin.php:899
+msgid "Appearance"
+msgstr ""
+
+#: admin/admin.php:1164
+msgid ""
+"Code before &lt;/body&gt; <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:1152
+#, fuzzy
+#| msgid "Code in &lt;head&gt;&lt;/head&gt;"
+msgid "Code in &lt;head&gt;&lt;/head&gt; "
+msgstr "Code ใน &lt;head&gt;&lt;/head&gt;"
+
+#: admin/admin.php:1158
+msgid ""
+"Code next to &lt;body&gt; <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:1138
+msgid "Consent description *"
+msgstr "รายละเอียดความยินยอม"
+
+#: admin/admin.php:1126
+msgid "Consent title *"
+msgstr "ประเภทการยินยอม"
+
+#: admin/admin.php:1075
+msgid "Consulting Service"
+msgstr "บริการให้คำปรึกษา PDPA"
+
+#: admin/admin.php:230
+msgid "Cookie consent message"
+msgstr "ข้อความ ขอความยินยอม"
+
+#: admin/admin-scanner.php:43
+msgid "Cookie Name"
+msgstr "ชื่อคุกกี้"
+
+#: admin/admin.php:1144
+msgid "Cookie name *"
+msgstr "ชื่อคุกกี้ *"
+
+#: admin/admin.php:898
+msgid "Cookies"
+msgstr ""
+
+#: admin/admin.php:192
+msgid "Cookies duration <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:270
+#, php-format
+msgid "Cookies list <a href=\"%s\" class=\"pdpa--link\" target=\"_blank\"></a>"
+msgstr ""
+"รายการคุกกี้ <a href=\"%s\" class=\"pdpa--link\" target=\"_blank\"></a>"
+
+#: public/public.php:141
+msgid "Cookies settings"
+msgstr "ตั้งค่าคุกกี้"
+
+#: admin/admin.php:801
+msgid "Dark"
+msgstr "มืด"
+
+#: admin/admin.php:450
+msgid "Days"
+msgstr "วัน"
+
+#: admin/admin.php:827 admin/admin.php:841
+msgid "Default"
+msgstr ""
+
+#. Author of the plugin
+msgid "Designil"
+msgstr ""
+
+#: admin/admin.php:848
+#, php-format
+msgid ""
+"Developers can override PDPA Thailand's template by creating a file  in the "
+"/wp-content/theme/pdpa-thailand folder. <a href=\"%s\">Read more</a> here "
+"<span class=\"pdpa--thailand-pro\">(PRO Only)</span>"
+msgstr ""
+
+#: admin/admin.php:1051
+msgid "Documentaion"
+msgstr "คู่มือการใช้งาน"
+
+#: admin/admin.php:156
+msgid "Enable PDPA Thailand"
+msgstr "เปิดใช้งาน PDPA Thailand"
+
+#: admin/admin.php:174
+msgid ""
+"Enable reject all button <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:165
+msgid "Enable settings button <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:1059
+msgid "FAQs"
+msgstr "คำถามที่พบบ่อย"
+
+#: admin/admin-scanner.php:38
+#, php-format
+msgid "Found <b>%s cookies(s)</b> in this website"
+msgstr "พบคุกกี้ <b>%s ตัว</b> ในเว็บไซต์"
+
+#: admin/admin.php:896
+msgid "General"
+msgstr ""
+
+#: admin/admin-scanner.php:47
+msgid "Get pro version to see more"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.designilcode.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.designilpdpa.com"
+msgstr ""
+
+#: admin/admin.php:788
+msgid "Left"
+msgstr "ซ้าย"
+
+#: admin/admin.php:800
+msgid "Light"
+msgstr "สว่าง"
+
+#: admin/admin.php:319
+msgid "Logo <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:328
+msgid "Main color"
+msgstr "สีหลัก"
+
+#: template/sidebar.php:20
+msgid "Manage Consent Preferences"
+msgstr "จัดการความเป็นส่วนตัว"
+
+#: admin/admin.php:310
+msgid ""
+"Max popup width <span class=\"pdpa--thailand-pro\">(PRO)</span> <a "
+"href=\"#popup_max_container_size\" class=\"pdpa--info\"></a>"
+msgstr ""
+
+#: admin/admin.php:897
+msgid "Messages"
+msgstr ""
+
+#: admin/admin.php:337
+msgid "Mode <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:820
+msgid "Not found"
+msgstr "ไม่พบคุกกี้"
+
+#: admin/admin.php:998
+msgid "Only allow A-Z, a-z, -, _"
+msgstr "รองรับตัวอักษร A-Z, a-z, -, _ เท่านั้น"
+
+#. Name of the plugin
+#: admin/admin.php:101 admin/admin.php:102
+msgid "PDPA Thailand"
+msgstr ""
+
+#: admin/admin.php:1010
+msgid "PDPA Thailand - Policy Page"
+msgstr "PDPA Thailand - นโยบายความเป็นส่วนตัว"
+
+#: admin/admin.php:996
+msgid "Please confirm to delete this row ?"
+msgstr "โปรดยืนยันการลบรายการนี้"
+
+#: admin/admin.php:221
+msgid "Policy page"
+msgstr "หน้า Policy"
+
+#: public/public.php:149
+msgid "Privacy policy"
+msgstr "นโยบายความเป็นส่วนตัว"
+
+#: template/sidebar.php:15
+msgid "Privacy Preferences"
+msgstr "ตั้งค่าความเป็นส่วนตัว"
+
+#: public/public.php:135
+msgid "Reject All"
+msgstr "ปฏิเสธ"
+
+#: admin/admin.php:654
+msgid "Reset"
+msgstr ""
+
+#: admin/admin.php:183
+#, php-format
+msgid ""
+"Reset Cookie ID <a href=\"%s\" class=\"pdpa--link\" target=\"_blank\"></a>"
+msgstr ""
+"รีเซ็ตคุกกี้ ID <a href=\"%s\" class=\"pdpa--link\" target=\"_blank\"></a>"
+
+#: admin/admin.php:789
+msgid "Right"
+msgstr "ขวา"
+
+#: template/sidebar.php:50
+msgid "Save"
+msgstr "บันทึกการตั้งค่า"
+
+#: admin/admin.php:915 admin/admin.php:925 admin/admin.php:935
+#: admin/admin.php:952
+msgid "Save Settings"
+msgstr "บันทึก"
+
+#: admin/admin.php:1019
+msgid "Settings"
+msgstr "ตั้งค่า"
+
+#: admin/admin.php:886
+msgid "Settings are Saved"
+msgstr "บันทึกการตั้งค่าเรียบร้อยแล้ว"
+
+#: admin/admin.php:239
+msgid "Sidebar message"
+msgstr "ข้อความใน Sidebar"
+
+#: admin/admin.php:346
+msgid "Sidebar position <span class=\"pdpa--thailand-pro\">(PRO)</span>"
+msgstr ""
+
+#: admin/admin.php:852
+msgid "Status"
+msgstr ""
+
+#: admin/admin.php:620
+msgid "Strictly necessary cookies description"
+msgstr "รายละเอียด คุกกี้ที่จำเป็น"
+
+#: admin/admin.php:614
+msgid "Strictly necessary cookies title"
+msgstr "หัวข้อ คุกกี้ที่จำเป็น"
+
+#: admin/admin.php:1067
+msgid "Support"
+msgstr "ขอความช่วยเหลือ"
+
+#. Description of the plugin
+msgid ""
+"Support Thai PDPA law by manage cookie systematic and allow to ask consent "
+"from user"
+msgstr ""
+"รองรับความต้องการของ PDPA มีระบบจัดการคุกกี้อย่างเป็นระบบ "
+"และสามารถขอความยินยอมจากผู้ใช้ก่อนที่จะเก็บข้อมูล"
+
+#: admin/admin.php:847 admin/admin.php:851
+msgid "Template"
+msgstr ""
+
+#: admin/admin.php:997
+msgid "This cookie name is not unique"
+msgstr "มีการใช้ชื่อคุกกี้นี้แล้ว กรุณาตั้งชื่อใหม่"
